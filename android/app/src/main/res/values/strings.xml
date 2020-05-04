@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HT09GoogleSignIn</string>
+    <string name="facebook_app_id">617904165471149</string> 
+    <string name="fb_login_protocol_scheme">fb617904165471149</string>
+</resources>
